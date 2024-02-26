@@ -1,0 +1,301 @@
+<mxfile host="Electron" modified="2024-02-26T08:38:58.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wN9BI_Unbs8S3TcnQ41u" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="C1-LD8xZu3iRwNskrKy1">
+    <mxGraphModel dx="712" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-2" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.29" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=1;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="160" as="targetPoint" />
+            <mxPoint x="300" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="40" width="50" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-5" value="&lt;div&gt;#include &amp;lt;iostream&amp;gt;&lt;/div&gt;&lt;div&gt;#include &amp;lt;fstream&amp;gt;&lt;/div&gt;&lt;div&gt;#include &amp;lt;string&amp;gt;&lt;/div&gt;&lt;div&gt;#include &amp;lt;stdio.h&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;void fun_form(int n, student* stud);&lt;/div&gt;&lt;div&gt;void fun_print(int n, student* mas);&lt;/div&gt;&lt;div&gt;int fun_delete_matchng(int n, string p_num, double mid_gr, student* mas);&lt;/div&gt;&lt;div&gt;void fun_add(int n, string name, student* mas);&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;int main(){&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;system(&quot;chcp 1251&quot;);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="50" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-6" target="zZ3rf0ExTtPIG1O4RfIT-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.33333333333337" y="290.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-6" value="system(&quot;chcp 1251&quot;);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-8" target="zZ3rf0ExTtPIG1O4RfIT-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.33333333333337" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-8" value="int n;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="190.00333333333336" y="280.0000000000001" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-10" target="zZ3rf0ExTtPIG1O4RfIT-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.33333333333337" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-10" value="string p_num, sname;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="170.01" y="340" width="139.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-12" target="zZ3rf0ExTtPIG1O4RfIT-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-12" value="int mid_gr;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="190.00333333333336" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-14" target="zZ3rf0ExTtPIG1O4RfIT-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-14" value="cout &lt;&lt; &quot;Введите количество студентов: &quot;;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="80" y="460" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-16" target="zZ3rf0ExTtPIG1O4RfIT-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-16" value="cin &gt;&gt; n;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="640" as="targetPoint" />
+            <mxPoint x="250" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="630" />
+              <mxPoint x="240" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-18" value="student* studs = new student[n];" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="140" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-29" target="zZ3rf0ExTtPIG1O4RfIT-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-29" value="for (int i = 0; i &amp;lt; n; ++i)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.15;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="140" y="640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-30" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-31" value="{" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-32" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-33" target="zZ3rf0ExTtPIG1O4RfIT-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-33" value="studs[i].info_input();" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="160" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-35" target="zZ3rf0ExTtPIG1O4RfIT-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-35" value="student mas[50];" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="390" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-37" target="zZ3rf0ExTtPIG1O4RfIT-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-37" value="fun_form(n, studs);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-39" target="zZ3rf0ExTtPIG1O4RfIT-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-39" value="fun_print(n, mas);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.3333333333335" y="800" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-41" target="zZ3rf0ExTtPIG1O4RfIT-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="920" />
+              <mxPoint x="440" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-41" value="cout &amp;lt;&amp;lt; &quot;Введите номер на удаление: &quot;;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="290" y="860" width="299.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-43" value="cin &gt;&gt; p_num;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.3333333333335" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-45" target="zZ3rf0ExTtPIG1O4RfIT-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-45" value="cout &lt;&lt; &quot;Введите среднюю оценку на удаление: &quot;;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="240" y="980" width="399.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-47" target="zZ3rf0ExTtPIG1O4RfIT-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-47" value="cin &gt;&gt; mid_gr;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.3333333333335" y="1040" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.5" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-49" value="n = fun_delete_matchng(n, (string)p_num, mid_gr, mas);" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="269.32" y="1100" width="340.68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-52" target="zZ3rf0ExTtPIG1O4RfIT-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-52" value="fun_print(n, mas);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.0033333333335" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-54" target="zZ3rf0ExTtPIG1O4RfIT-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-54" value="cout &lt;&lt; &quot;Введите фамилию, после которой нужно добавить элемент: &quot;;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="160.67" y="1220" width="559.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-56" target="zZ3rf0ExTtPIG1O4RfIT-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-56" value="cin &gt;&gt; sname;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.3333333333335" y="1280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-58" target="zZ3rf0ExTtPIG1O4RfIT-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-58" value="fun_add(n, sname, mas);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="340.67" y="1340" width="199.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-60" target="zZ3rf0ExTtPIG1O4RfIT-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-60" value="n++;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="390.3333333333335" y="1400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-62" target="zZ3rf0ExTtPIG1O4RfIT-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.3333333333335" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-62" value="fun_print(n, mas);" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.16666666666666666;" parent="1" vertex="1">
+          <mxGeometry x="360.3333333333335" y="1460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-64" value="return 0;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380.33" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-65" value="void fun_form(int n, student* w_mas)&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; FILE* f;&lt;br&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;wb&quot;)) == NULL) exit(1);&lt;br&gt;&amp;nbsp; &amp;nbsp; student* stud = w_mas;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; fwrite(stud, sizeof(student), n, f);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;br&gt;}" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="100" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-66" value="void fun_print(int n, student* mas)&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; FILE* f;&lt;br&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;rb&quot;)) == NULL) exit(2);&lt;br&gt;&amp;nbsp; &amp;nbsp; student* stud = mas;&lt;br&gt;&amp;nbsp; &amp;nbsp; fread(stud, sizeof(student), n, f);&lt;br&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; for (int i = 0; i &amp;lt; n; ++i)&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; stud[i].info_output();&lt;br&gt;&amp;nbsp; &amp;nbsp; }" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="300" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-67" value="&lt;div&gt;int fun_delete_matchng(int n, string p_num, double mid_gr, student* mas)&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; int dels = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; student* stud = mas;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FILE* f;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;rb&quot;)) == NULL) exit(3);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fread(stud, sizeof(student), n, f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; int new_n = n;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; for (int i = 0; i &amp;lt; new_n; ++i) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if (stud[i].for_deliting(p_num, mid_gr))&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; for (int j = i; j &amp;lt; n - 1; j++)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; stud[j] = stud[j + 1];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dels++;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; new_n--;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; dels &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;wb&quot;)) == NULL) exit(4);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fwrite(stud, sizeof(student), n, f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return new_n;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="560" width="560" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-68" value="&lt;div&gt;void fun_add(int n, string name, student* mas)&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; student* stud = mas;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; FILE* f;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;rb&quot;)) == NULL) exit(3);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fread(stud, sizeof(student), n + 1, f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; int i = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; bool check = true;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; while ((i &amp;lt; n) &amp;amp;&amp;amp; (check)) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if (stud[i].sname == name)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; for (int j = n + 1; j &amp;gt; i + 1; j--)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; stud[j] = stud[j - 1];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check = false;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ++i;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; if (check) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; &quot;Ошибка поиска&quot;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; else&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; stud[i].info_input();&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; if ((f = fopen(&quot;database_students.dat&quot;, &quot;wb&quot;)) == NULL) exit(4);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fwrite(stud, sizeof(student), n + 1, f);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; fclose(f);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1040" width="560" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770.0000000000001" y="750" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1300" />
+              <mxPoint x="760" y="20" />
+              <mxPoint x="320" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-67" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1300" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="780" />
+              <mxPoint x="760" y="20" />
+              <mxPoint x="320" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-66" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="780" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="410" />
+              <mxPoint x="760" y="20" />
+              <mxPoint x="320" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ3rf0ExTtPIG1O4RfIT-65" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="780" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="180" />
+              <mxPoint x="760" y="20" />
+              <mxPoint x="320" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ3rf0ExTtPIG1O4RfIT-74" value="}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1525" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

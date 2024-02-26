@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_8\\Program_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99047298-D721-4FC2-9167-DBEEA4FE80EC}|Program_v2\\Program_v2.vcxproj|C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_8\\Program_v2\\Program_v2\\Program_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99047298-D721-4FC2-9167-DBEEA4FE80EC}|Program_v2\\Program_v2.vcxproj|solutionrelative:Program_v2\\Program_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_v2.cpp",
+              "DocumentMoniker": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_8\\Program_v2\\Program_v2\\Program_v2.cpp",
+              "RelativeDocumentMoniker": "Program_v2\\Program_v2.cpp",
+              "ToolTip": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_8\\Program_v2\\Program_v2\\Program_v2.cpp",
+              "RelativeToolTip": "Program_v2\\Program_v2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T06:39:45.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
